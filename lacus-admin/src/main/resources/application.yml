@@ -25,4 +25,4 @@ spring:
 lacus:
   embedded:
     mysql: false
-    redis: false
+    redis: true
